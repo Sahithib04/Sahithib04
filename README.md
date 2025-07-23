@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Graduated in 2024 with a Bachelor’s in Electronics and Communication Engineering from Vignan's Institute of Management and Technology for Women, Hyderabad — where circuits met code, and my journey into the tech world truly began<br>📚 Currently learning DSA<br>🧩 I love solving problems, building cool stuff with Java and Spring Boot, and always pushing my limits through continuous learning.<br>🎶 I love listening to English music and BTS K-pop in my free time.
+Class of 2024
+GirlScript Summer of Code 2025 - Contributor 
 
 
 ## 🌐 Socials:
