@@ -1,6 +1,8 @@
 # 💫 About Me:
 B.Tech ECE (Class of 2024)
+
 📍 Hyderabad, Telangana, India
+
 GirlScript Summer of Code 2025 - Contributor 
 
 
