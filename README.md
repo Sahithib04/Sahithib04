@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Aspiring Fullstack Software Engineer| B.Tech ECE @JNTUH (Class of 2024)| GirlScript Summer of Code 2025 - Contributor 
+🎓 Aspiring Fullstack Software Engineer| B.Tech ECE @JNTUH (Class of 2024)| GirlScript Summer of Code 2025 - Contributor  
 📍 Hyderabad, Telangana, India
 
 
