@@ -1,9 +1,8 @@
 # 💫 About Me:
-B.Tech ECE (Class of 2024)
-
+🎓 Aspiring Fullstack Software Engineer| B.Tech ECE (Class of 2024)| GirlScript Summer of Code 2025 - Contributor 
 📍 Hyderabad, Telangana, India
 
-GirlScript Summer of Code 2025 - Contributor 
+
 
 
 ## 🌐 Socials:
