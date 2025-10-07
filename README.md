@@ -12,6 +12,7 @@
 # Experience :
 
 • Contributing to several open source projects for Girlscript Summer of Code (GSSoC)2025.
+
 • Contributing to several open source projects for Hactoberfest 2025.
 
 # 💻 Tech Stack:
