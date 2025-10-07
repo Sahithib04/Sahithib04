@@ -5,7 +5,7 @@
 
 
 
-## 🌐 Socials:
+You can find me here :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethi-sahithi-reddy-/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sahithibethi04@gmail.com) 
 
