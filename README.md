@@ -10,6 +10,7 @@ You can find me here :
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sahithibethi04@gmail.com) 
 
 Experience :
+
 Contributing to several open source projects for Girlscript Summer of Code (GSSoC)2025.
 Contributing to several open source projects for Hactoberfest 2025.
 
