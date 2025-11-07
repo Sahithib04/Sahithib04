@@ -8,6 +8,7 @@ Hello! I'm Sahithi Bethi, a passionate Full Stack Developer. I love building inn
 🔭 I'm currently contributing to opensource projects and open to entry level jobs
 
 🌱 I'm continuously learning new technologies in web development and artificial intelligence
+
 👯 I'm looking to collaborate with like-minded developers and researchers
 
 🎯 Technical Leader who has mentored 15+ developers and boosted engagement by 40%
