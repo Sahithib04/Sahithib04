@@ -18,12 +18,13 @@ Hello! I'm Sahithi Bethi, a passionate Full Stack Developer. I love building inn
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sahithibethi04@gmail.com) 
 
 # 💼 Professional Experience :
-Open Source Contributor | July2025- Present  
+# Open Source Contributor | July2025- Present  
 • Contributed and contributing to Hactoberfest and GSSOC projects using Java, ReactJS, and HTML/CSS, improving project 
 efficiency by 20%.  
 • Collaborated via GitHub on pull requests, code reviews, and documentation updates. 
-Technical Intern | VMTW 
-October 2023 – June 2024 | Hyderabad 
+
+# Technical Intern | VMTW 
+# October 2023 – June 2024 | Hyderabad 
 • Directed technical operations for university events, encompassing website development, payment gateway 
 management, and design of promotional materials such as posters and flyers. 
 • Innovated event technology solutions, for 75% increase in user satisfaction and a 60% improvement in process efficiency. 
