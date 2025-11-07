@@ -2,7 +2,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Lives-India-blue" alt="Lives in Hyderabad" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 
 ## About Me
