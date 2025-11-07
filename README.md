@@ -1,4 +1,5 @@
 Hi there, I'm Sahithi Bethi! 👋
+
 📍 Hyderabad, Telangana, India
 B.Tech ECE @JNTUH (Class of 2024)
 
