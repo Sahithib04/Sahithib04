@@ -10,7 +10,7 @@
 
 Hello! I'm **Sahithi Bethi**, a passionate **Full Stack Developer**. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains
 
-- 🔍 Currently open for SDE / Full-Stack roles & internship opportunities.
+- 🔍 Currently **open for SDE / Full-Stack roles** & internship opportunities.
 - 🔭 I'm currently working on developing full stack and open source projects
 - 🌱 I'm continuously learning new technologies in web development and artificial intelligence 
 - 👯 I'm looking to collaborate with like-minded developers and researchers
