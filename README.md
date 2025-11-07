@@ -1,38 +1,83 @@
-Hi there, I'm Sahithi Bethi! 👋
+# Hi there, I'm Sahithi Bethi! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
-📍 Hyderabad, Telangana, India
-B.Tech ECE @JNTUH (Class of 2024)
+<p>
+  <img src="https://img.shields.io/badge/Lives-India-blue" alt="Lives in Hyderabad" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+</p>
 
-# 💫 About Me:
-Hello! I'm Sahithi Bethi, a passionate Full Stack Developer. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains
+## About Me
 
-🔭 I'm currently contributing to opensource projects and open to entry level jobs
+<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 
-🌱 I'm continuously learning new technologies in web development and artificial intelligence
+Hello! I'm **Sahithi Bethi**, a passionate **Full Stack Developer**. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains
 
-👯 I'm looking to collaborate with like-minded developers and researchers
+- 🔍 Currently open for SDE / Full-Stack roles & internship opportunities.
+- 🔭 I'm currently working on developing full stack and open source projects
+- 🌱 I'm continuously learning new technologies in web development and artificial intelligence 
+- 👯 I'm looking to collaborate with like-minded developers and researchers
 
-🎯 Technical Leader who has mentored 15+ developers and boosted engagement by 40%
+## Connect with Me
 
-# You can find me here :
+<p align="center">
+  <!-- LinkedIn -->
+  <a target="_blank" href="https://www.linkedin.com/in/bethi-sahithi-reddy-/">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Email -->
+  <a target="_blank" href="mailto:sahithibethi04@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethi-sahithi-reddy-/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sahithibethi04@gmail.com) 
+## 💼 Professional Experience
 
-# 💼 Professional Experience :
-# Open Source Contributor | July2025- Present  
-• Contributed and contributing to Hactoberfest and GSSOC projects using Java, ReactJS, and HTML/CSS, improving project 
-efficiency by 20%.  
-• Collaborated via GitHub on pull requests, code reviews, and documentation updates. 
+### Open Source Contributor 
+**July 2025 – present**
+- 🚀 **Contributed & continuing to contribute** to global open-source (Hacktoberfest + GSSOC) using Java, ReactJS, and HTML/CSS — improving workflow efficiency by **20%**
+- ⚡Collaborated via **GitHub PRs**, code reviews & documentation — reducing maintainer review cycles **by 35%**
 
-# Technical Intern | VMTW 
-# October 2023 – June 2024 | Hyderabad 
-• Directed technical operations for university events, encompassing website development, payment gateway 
-management, and design of promotional materials such as posters and flyers. 
-• Innovated event technology solutions, for 75% increase in user satisfaction and a 60% improvement in process efficiency. 
-Coordinated cross-functional efforts to ensure seamless execution of events, for 95% client satisfaction
+### Technical Intern | VMTW - TS  
+**October 2023 – June 2024 | Hyderabad, India**
+- 🌐 **Orchestrated technical operations** for **30+ university events** with integrated payment gateways
+- 📈 **Increased event participation by 25%** through strategic website design and deployment
+- 🎯 **Boosted user satisfaction by 75%** and reduced coordination time by **60%** via automated dashboards
+- ✅ **Achieved 95% client satisfaction** through seamless cross-functional collaboration
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+## 🚀 Tech Stack & Skills
+
+### ⚙️ Backend Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121013.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
+## 🌟 Leadership & Impact
+
+### 🎯 Technical Leadership
+- **Convener** of University's Technical Team
+  - 📈 **Boosted student engagement by 40%** through strategic committee formation
+  - 🌐 **Led large-scale web initiatives** across university departments
+
+### 👨‍🏫 Mentorship & Development  
+- **Board Member** of APP Design and Development Club
+  - 🚀 **Elevated 15+ junior developers** with tailored workshops and code reviews
+  - 📊 **Achieved 60% improvement in coding skills** through hands-on training programs
 
 
