@@ -6,8 +6,10 @@ B.Tech ECE @JNTUH (Class of 2024)
 Hello! I'm Sahithi Bethi, a passionate Full Stack Developer. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains
 
 🔭 I'm currently contributing to opensource projects and open to entry level jobs
+
 🌱 I'm continuously learning new technologies in web development and artificial intelligence
 👯 I'm looking to collaborate with like-minded developers and researchers
+
 🎯 Technical Leader who has mentored 15+ developers and boosted engagement by 40%
 
 # You can find me here :
