@@ -31,7 +31,14 @@ Hello! I'm **Sahithi Bethi**, a passionate **Full Stack Developer**. I love buil
 
 ## Badges
 
-[![Holopin Profile Badge](https://holopin.me/sahithib04)](https://holopin.io/@sahithib04)
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9f1d4a3b-d848-46ab-9e5c-9e30fe92a52f" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/422c0bd4-d633-4aa8-94aa-e76aaf6a5b30" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/05242159-321a-4563-9a6d-7342f7dad207" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/749f96ec-7139-49d5-b254-cd333c3f1d89" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/6021693d-0662-4d0b-8990-c1bafcb27b80" />
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/f7f37940-9589-4ceb-90ad-f4435f619a26" />
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/6c25fcbd-b563-453a-8b3b-cbbaebda3e9c" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/bb438cf3-6e65-4251-906a-dbc45f4c3f58" />
 
 
 ## 💼 Professional Experience
