@@ -28,6 +28,10 @@ Hello! I'm **Sahithi Bethi**, a passionate **Full Stack Developer**. I love buil
   </a>
 </p>
 
+
+## Badges
+
+cmgjg1qsg001rl504xqo0xf9v
 ## 💼 Professional Experience
 
 ### Open Source Contributor 
