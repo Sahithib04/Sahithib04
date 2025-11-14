@@ -83,9 +83,9 @@ Hello! I'm **Sahithi Bethi**, a passionate **Full Stack Developer**. I love buil
 ## 🌟 Leadership & Impact
 
 ### 🎯 Technical Leadership
-- **Convener** of University's Technical Team
+- **Convener** of College Technical Team
   - 📈 **Boosted student engagement by 40%** through strategic committee formation
-  - 🌐 **Led large-scale web initiatives** across university departments
+  - 🌐 **Led large-scale web initiatives** across college departments
 
 ### 👨‍🏫 Mentorship & Development  
 - **Board Member** of APP Design and Development Club
