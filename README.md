@@ -31,7 +31,6 @@ Hello! I'm **Sahithi Bethi**, a passionate **Full Stack Developer**. I love buil
 
 ## Badges
 
-## Badges
 
 <p align="center">
   <img width="100" src="https://github.com/user-attachments/assets/9f1d4a3b-d848-46ab-9e5c-9e30fe92a52f" />
