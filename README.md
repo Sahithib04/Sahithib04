@@ -53,7 +53,7 @@ Hello! I'm **Sahithi Bethi**, a passionate **Full Stack Developer**. I love buil
 
 ### Technical Intern | VMTW - TS  
 **October 2023 – June 2024 | Hyderabad, India**
-- 🌐 **Orchestrated technical operations** for **30+ university events** with integrated payment gateways
+- 🌐 **Orchestrated technical operations** for **10+ university events** with integrated payment gateways
 - 📈 **Increased event participation by 25%** through strategic website design and deployment
 - 🎯 **Boosted user satisfaction by 75%** and reduced coordination time by **60%** via automated dashboards
 - ✅ **Achieved 95% client satisfaction** through seamless cross-functional collaboration
